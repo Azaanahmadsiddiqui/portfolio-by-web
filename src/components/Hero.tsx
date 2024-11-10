@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="hero-boxes-con">
             {/* left side */}
             <div>
-                <Image className="hero-image" src={"/image.jpg"} width={200} height={200} alt="Profile"></Image>
+                <Image className="hero-image" src={"/image.jpg"} width={250} height={210} alt="Profile"></Image>
             </div>
             {/* right side */}
             <div className="hero-right-div">
